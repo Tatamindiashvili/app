@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064349241258",
+    "project_id": "praktikuli",
+    "storage_bucket": "praktikuli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064349241258:android:ffae8e7a3a619a92ba65d3",
+        "android_client_info": {
+          "package_name": "com.example.myappl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064349241258-fdksop3634fooogk82igpu6j485q5quh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWM4MUDD1kvXDJrz3748UyRHXAg_edlko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064349241258-fdksop3634fooogk82igpu6j485q5quh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
